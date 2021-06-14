@@ -44,8 +44,4 @@ class App < Sinatra::Base
     end
   end
 
-=======
-    "#{name}"
-  end
-
 end
